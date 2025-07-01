@@ -23,7 +23,7 @@ Build a **Prompt Optimizer & Organizer** that:
 | Backend    | Express / Flask / FastAPI     |
 | Database   | MongoDB / PostgreSQL / SQLite |
 | AI Service | OpenAI API                    |
-| Auth (opt) | Firebase Auth / JWT           |
+| Auth (opt) |  JWT                          |
 | Hosting    | Vercel / Render / Netlify     |
 
 ---
@@ -79,7 +79,7 @@ Build a **Prompt Optimizer & Organizer** that:
 ### 🔸 Planning
 
 - [x] Define idea & core use cases
-- [ ] Choose tech stack
+- [x] Choose tech stack
 - [ ] Finalize features for MVP
 
 ### 🔹 Build Phase
